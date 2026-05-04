@@ -1,0 +1,50 @@
+brand,model,sale_year,milage,fuel_type,engine,transmission,ext_col,int_col,Total_sale,price
+Ford,Utility Police Interceptor Base,2013,"51,000 mi.",E85 Flex Fuel,300.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,Black,Black,12,853222
+Hyundai,Palisade SEL,2021,"34,742 mi.",Gasoline,3.8L V6 24V GDI DOHC,8-Speed Automatic,Moonlight Cloud,Gray,58,3148201
+Lexus,RX 350 RX 350,2022,"22,372 mi.",Gasoline,3.5 Liter DOHC,Automatic,Blue,Black,47,4522707
+INFINITI,Q50 Hybrid Sport,,"88,900 mi.",Hybrid,354.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,7-Speed A/T,Black,Black,32,1283965
+Audi,Q3 45 S line Premium Plus,2021,"9,835 mi.",Gasoline,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Glacier White Metallic,Black,98,2899194
+Acura,ILX 2.4L,2016,,Gasoline,2.4 Liter,,Silver,Ebony.,12,1225814
+Audi,S3 2.0T Premium Plus,2017,"84,000 mi.",Gasoline,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,Blue,Black,45,2567931
+BMW,740 iL,2001,"242,000 mi.",Gasoline,282.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,Green,Green,78,604711
+Lexus,RC 350 F Sport,,"23,436 mi.",Gasoline,311.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,,Black,Black,12,3473113
+Tesla,Model X Long Range Plus,2020,"34,000 mi.",Gasoline,534.0HP Electric Motor Electric Fuel System,A/T,Black,Black,35,5794458
+Land,Rover Range Rover Sport 3.0 Supercharged HST,2021,"27,608 mi.",Gasoline,V6,Automatic,Fuji White,Pimento / Ebony,47,1979559
+Aston,Martin DBS Superleggera,2019,"22,770 mi.",Gasoline,715.0HP 5.2L 12 Cylinder Engine Gasoline Fuel,8-Speed A/T,Silver,Black,46,152917
+Toyota,Supra 3.0 Premium,2021,"12,500 mi.",Gasoline,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,Yellow,Black,24,4431787
+Lincoln,Aviator Reserve AWD,,"18,196 mi.",Gasoline,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Brown,35,5136008
+Jaguar,F-TYPE,2020,"15,903 mi.",Gasoline,2.0 Liter Supercharged,Automatic,Silver,Black,65,3976099
+Land,Rover LR4 HSE,2013,"79,800 mi.",Gasoline,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,,White,Black,87,2484337
+Mercedes-Benz,Metris Base,2021,"1,685 mi.",Gasoline,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Gray,White,95,20709712
+Dodge,Challenger SXT,2013,"61,074 mi.",Gasoline,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Gray,58,1391692
+Nissan,350Z Enthusiast,2003,"74,000 mi.",Gasoline,287.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,Purple,–,12,911227
+Jaguar,F-TYPE R,2018,,Gasoline,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Green,Black,58,5695170
+Genesis,GV70 3.5T Sport,2023,"5,400 mi.",Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Green,Beige,47,4970331
+Chevrolet,S-10 LS,2000,"133,510 mi.",E85 Flex Fuel,120.0HP 2.2L 4 Cylinder Engine Flex Fuel Capability,A/T,Blue,Black,32,372777
+BMW,440 Gran Coupe 440i xDrive,2020,"25,990 mi.",Gasoline,3.0 Liter Turbo,Automatic,White,Beige,98,3197437
+Ford,F-150 XLT,2023,"2,823 mi.",Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,Iconic Silver Metallic,Black,12,4846439
+Chevrolet,Suburban RST,2021,"52,000 mi.",Gasoline,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,Blue,Black,45,5053206
+Hyundai,Elantra N Base,2022,"11,650 mi.",Gasoline,276.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,,Black,Black,78,2675714
+Nissan,Sentra SR,2016,,Gasoline,1.8 Liter,Automatic,Blue,Black,12,1159586
+Mercedes-Benz,AMG CLA 45 Base 4MATIC,2021,"17,500 mi.",Gasoline,382.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,Gray,Black,35,4969952
+BMW,650 Gran Coupe i xDrive,2015,"69,000 mi.",Gasoline,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Gray,Black,47,2128973
+Audi,Q5 2.0T Premium Plus,2017,"81,880 mi.",E85 Flex Fuel,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,8-Speed Automatic,Mythos Black Metallic,Black,46,1770693
+Mercedes-Benz,AMG C 43 Base 4MATIC,2018,"28,800 mi.",Gasoline,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,Silver,Black,24,3976104
+Dodge,Ram 1500 Laramie Mega Cab,2006,"300,183 mi.",Gasoline,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,Silver,Gray,35,902906
+BMW,i3 120Ah w/Range Extender,2020,"35,035 mi.",Hybrid,120 AH,Automatic,Black,Black,65,2070721
+Kia,Sorento SX,2011,"171,000 mi.",Gasoline,276.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,87,496930
+Lexus,LX 570 Base,2016,"118,700 mi.",Gasoline,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Beige,95,3884984
+Jeep,New Compass Trailhawk,2017,"119,000 mi.",Gasoline,180.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,Red,Black,58,1317084
+BMW,340 i,2018,"44,261 mi.",Gasoline,3.0 Liter Turbo,Automatic,Gray,Black,12,2783107
+Audi,A4 2.0T Premium Plus quattro,2012,"125,575 mi.",Gasoline,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,Silver,Black,58,745436
+Hyundai,Tucson SE,2007,"16,200 mi.",Gasoline,173.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,Gold,Beige,47,679251
+BMW,Z4 sDrive28i,2014,,Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,White,Beige,32,1656716
+Bentley,Continental GTC Base,2011,"20,200 mi.",E85 Flex Fuel,552.0HP 6.0L 12 Cylinder Engine Flex Fuel Capability,6-Speed A/T,Black,Black,98,6622722
+Honda,Passport Elite,2023,"2,978 mi.",Gasoline,3.5 Liter SOHC,Automatic,Lunar Silver Metallic,Gray,12,3768863
+Dodge,Sprinter 2500,2007,"189,719 mi.",Diesel,3.0L V6 Cylinder Engine Diesel Fuel,,White,Gray,45,1159701
+BMW,M850 i xDrive,2019,"9,949 mi.",Gasoline,4.4 Liter DOHC Twin Turbo,Automatic,Blue,Black,78,6278787
+Lucid,Air Grand Touring,2022,"3,552 mi.",,536.0HP Electric Motor Electric Fuel System,1-Speed A/T,Red,Beige,12,9940213
+Audi,A7 Premium,2012,"54,000 mi.",Gasoline,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Brown,35,3054984
+Chevrolet,Silverado 1500 Custom Trail Boss,2021,"51,351 mi.",Gasoline,5.3L V8 16V GDI OHV,Automatic,Black,Jet Black,47,3574189
+MINI,Convertible John Cooper Works,2017,"24,280 mi.",Gasoline,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,46,2402287
+BMW,525 i,2005,"91,420 mi.",Gasoline,215.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,24,664939
